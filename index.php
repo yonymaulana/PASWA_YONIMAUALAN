@@ -38,7 +38,7 @@ if (isset($_POST['submit'])) {
 
     <link rel="stylesheet" type="text/css" href="style.css">
 
-    <title>Niagahoster Tutorial</title>
+    <title>Website Paswa STIKOM CKI</title>
 </head>
 
 <body>
