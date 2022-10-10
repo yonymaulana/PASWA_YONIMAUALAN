@@ -53,7 +53,7 @@ if (isset($_POST['submit'])) {
 
     <link rel="stylesheet" type="text/css" href="style.css">
 
-    <title>Niagahoster Register</title>
+    <title>Halaman Register</title>
 </head>
 
 <body>
